@@ -1,7 +1,7 @@
 # TP 4 (mini): Tabla de skills para webs lindas
 
 **Integrantes:** Mateo Morea, Nicolás Barrales y Santiago Orlando.  
-**Grupo:** Morea, Barrales y Orlando. **Curso:** pendiente de completar.  
+**Grupo:** Morea, Barrales y Orlando.
 **Profesor:** Luis Pandiani. **Fecha de revisión:** 13/11/2026.
 
 Elegimos cinco categorías distintas. Los ejemplos son páginas propias hechas en Codex aplicando las instrucciones de cada skill; no son imágenes oficiales ni pruebas de uso en Claude. El gráfico usa datos ficticios, expresamente identificados.
