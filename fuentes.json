@@ -1,0 +1,47 @@
+[
+  {
+    "name": "frontend-design",
+    "repo": "anthropics/skills",
+    "path": "skills/frontend-design/SKILL.md",
+    "date": "2026-09-03T16:37:13Z",
+    "sha": "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f",
+    "category": "Diseño web",
+    "description": "Define una identidad visual coherente para una página: composición, tipografía y jerarquía. Ayuda a diseñar para el tema del proyecto en lugar de repetir una plantilla genérica."
+  },
+  {
+    "name": "better-typography",
+    "repo": "jakubkrehel/skills",
+    "path": "skills/better-typography/SKILL.md",
+    "date": "2026-10-24T04:16:14Z",
+    "sha": "1eb03d2b145df1c6cd84ab54a337600a2a379017",
+    "category": "Fuentes y tipografía",
+    "description": "Ordena tamaños, pesos, interlineado y ancho de los textos para facilitar la lectura. Revisa títulos, saltos de línea y números que cambian."
+  },
+  {
+    "name": "better-colors",
+    "repo": "jakubkrehel/skills",
+    "path": "skills/better-colors/SKILL.md",
+    "date": "2026-10-24T04:16:14Z",
+    "sha": "1eb03d2b145df1c6cd84ab54a337600a2a379017",
+    "category": "Colores y paletas",
+    "description": "Organiza la paleta según funciones, como fondo, texto y acción principal. Mide el contraste y evita que un color sea la única señal de un estado."
+  },
+  {
+    "name": "animate",
+    "repo": "emilkowalski/skills",
+    "path": "skills/animate/SKILL.md",
+    "date": "2026-11-02T09:21:52Z",
+    "sha": "f1090bec277140d02ed202440185ad9d02ac1490",
+    "category": "Animaciones",
+    "description": "Decide cuándo una animación ayuda y cómo implementarla con tiempos y curvas concretos. Prioriza movimientos breves y alternativas para quienes prefieren menos movimiento."
+  },
+  {
+    "name": "visualization",
+    "repo": "atlassian-labs/data-visualization-skill",
+    "path": "skills/visualization/SKILL.md",
+    "date": "2026-10-26T23:45:30Z",
+    "sha": "2846a93e47356ce7415626d867d59a2fa567cbf5",
+    "category": "Gráficos",
+    "description": "Crea gráficos con Plotly, colores consistentes, etiquetas claras y poco adorno. Ayuda a elegir el tipo de gráfico y permite exportarlo como HTML interactivo."
+  }
+]
